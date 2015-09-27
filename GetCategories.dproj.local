@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/26 15:49:51.000.288,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/26 15:50:33.000.120,D:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\dev\McNelly SoftWorks\Outlook\Get Categories\main.dfm</Transaction>
+    <Transaction>2015/09/26 15:50:33.000.120,D:\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\dev\McNelly SoftWorks\Outlook\Get Categories\main.pas</Transaction>
+    <Transaction>2015/09/26 15:50:41.000.401,D:\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\dev\McNelly SoftWorks\Outlook\Get Categories\GetCategories.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
